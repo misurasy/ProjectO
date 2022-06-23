@@ -1,0 +1,22 @@
+{
+  "name": "projecto",
+  "version": "0.0.0",
+  "description": "project for fan",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misurasy/ProjectO.git"
+  },
+  "author": "frends",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misurasy/ProjectO/issues"
+  },
+  "homepage": "https://github.com/misurasy/ProjectO#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
